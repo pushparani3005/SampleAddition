@@ -13,6 +13,8 @@ public class Addition {
 		sum = a + b;
 		System.out.println("The sum of two no's" + sum);
 		System.out.println("Addition is done");
-	}
+		System.out.println("done");
 
+
+}
 }
